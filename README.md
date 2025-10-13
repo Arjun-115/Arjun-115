@@ -1,3 +1,6 @@
+<p align="center">
+<img src="./assets/git.gif" alt="About Me" width="auto" height="auto">
+<p align="center"><br />
 # 💫 About Me:
 I'm a creative and curious learner passionate about technology, AI, and real-world innovation
 
