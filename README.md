@@ -30,8 +30,13 @@
 [![](https://visitcount.itsvg.in/api?id=ArjunVB&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-<h2 align="left"> Let's get connected:</h2>
+<h2 align="left">📬 Let's Get Connected:</h2>
 
-📫 📱
+<p align="center">
+  📧 <a href="mailto:vbarjun@gmail.com">Email</a> &nbsp; | &nbsp;
+  🌐 <a href="https://www.linkedin.com/in/v-b-arjun/" target="_blank">LinkedIn</a> &nbsp; | &nbsp;
+  💻 <a href="https://github.com/Arjun-115" target="_blank">GitHub</a>
+</p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
