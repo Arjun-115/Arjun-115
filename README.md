@@ -27,7 +27,7 @@
 
 ## 💫 About Me
 
-- 🎓 Pursuing **B.E. in CSBS** at **KIT – Kalaignar Karunanidhi Institute of Technology** *(3rd Year)*
+- 🎓 Pursuing **B.E. in CSBS** at **KIT – Kalaignar Karunanidhi Institute of Technology** *(4th Year)*
 - 🤖 Passionate about **Artificial Intelligence**, **IoT**, and **Full-Stack Development**
 - 🔭 Currently building: **AI Agent**
 - 🌱 Currently leveling up: Machine Learning, REST API design, Python backend patterns
@@ -86,6 +86,30 @@
 ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat&logo=sketch&logoColor=black)
 
 ---
+## 🎓 Certifications
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Infosys-007CC3?style=for-the-badge&logo=infosys&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Juniper-84B135?style=for-the-badge&logo=juniper-networks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NPTEL-FF6F00?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+</p>
+
+---
+
+## 📜 Certification Details
+
+- 🏅 **Cisco Certifications**
+- 🏅 **Infosys Springboard Certification**
+- 🏅 **Juniper Networks Certification**
+- 🏅 **NPTEL Online Courses**
+- 🏅 **Coursera Professional Courses**
+- 🏅 **IBM SkillsBuild Certification**
+- 🏅 **AWS Cloud Certification**
 
 ## 📊 GitHub Stats
 
