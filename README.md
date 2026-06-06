@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm V B Arjun 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=3rd+Year+CSBS+Student+%40+KIT;AI+%26+IoT+Builder;Full-Stack+Web+Developer;Competitive+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=4th+Year+CSBS+Student+%40+KIT;AI+%26+IoT+Builder;Full-Stack+Web+Developer;Competitive+Programmer" alt="Typing SVG" />
 </p>
 
 <p align="center">
